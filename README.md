@@ -49,7 +49,7 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 * Workshop 2: What’s Mixed Reality? How to Paper Prototype a New Reality?  
 * Workshop 3: Merging Mixed Realities
 * Workshop 4: How to write a Pictorial / Paper for your artwork? 
-
+* Workshop 5: Generating Speculative Media Art
 
 
 ## Reading List
