@@ -67,3 +67,5 @@ Amber:
 - Kate Crawford and Vladan Joler. [Anatomy of an AI System](https://anatomyof.ai/)
 - Katie Salen Tekinbaş and Eric Zimmerman. [Rules of Play](https://www.hup.harvard.edu/books/9780674005815)
 - Erik Lintunen. [Latent Spaces: The High-Dimensional Infosphere](https://dl.acm.org/doi/pdf/10.1145/3363384.3363395)
+- Venkatesh Rao. [On the Design of Escaped Realities](https://www.ribbonfarm.com/2015/01/16/on-the-design-of-escaped-realities/)
+
