@@ -26,6 +26,8 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 
 ## Syllabus
 
+Kraft: 
+* Lecture 0: What's Speculative Design?
 * Lecture 1. The Work of Art in the Age of Automation 
 * Lecture 2. Designing towards organological 
 	* (tech as organ rather then tech as the other) 
@@ -45,12 +47,14 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 * Lecture 14. Cosmotechnics. Technological Pluralisms 
 * Lecture 15. Web3 Ecologies. Consensus. Incentivisation.
 
-* Workshop 1: Black Mirror Writing Room 
-* Workshop 2: What’s Mixed Reality? How to Paper Prototype a New Reality?  
-* Workshop 3: Merging Mixed Realities
-* Workshop 4: How to write a Pictorial / Paper for your artwork? 
-* Workshop 5: Generating Speculative Media Art
-
+Amber:
+* Lecture 0. What's Speculative Design? 
+* Lecture 1: Towards Permissionless Realities
+* Workshop 1: How to write a Pictorial / Paper for your artwork? 
+* Workshop 2: Workshop on Black Mirror Writing Room
+* Workshop 3: Workshop on Merging Mixed Realities
+* Workshop 4: Workshop on Generating Speculative Media Art
+* Workshop 5: Workshop on AI and Afterlife
 
 ## Reading List
 
