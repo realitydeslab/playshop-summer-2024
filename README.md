@@ -97,5 +97,9 @@ Towards Speculative Realities
 - Ian Cheng, http://iancheng.com/
 - Ian Cheng: An Emissaries Guide to Worlding (2018)
 
+## Workshop Homework 1
+
+[Homework 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). Due: 2PM, Jun 20, 2024. 
+
 
 
