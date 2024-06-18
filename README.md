@@ -1,3 +1,6 @@
+## Course Title 
+Latent Spaces & Permissionless Dreams
+
 ## Course Description
 
 What’s that Reality in the Future?
@@ -48,9 +51,10 @@ Kraft:
 * Lecture 15. Web3 Ecologies. Consensus. Incentivisation.
 
 Amber:
-* Lecture 0. What's Speculative Design? 
-* Lecture 1: Towards Permissionless Realities
-* Workshop 1: How to write a Pictorial / Paper for your artwork? 
+* Lecture 1. Towards Speculative Realities
+* Lecture 2: Towards Permissionless Realities
+* Lecture 3: Towards Intercorporeal Realities
+* Workshop 1: Workshop on How to write a Pictorial / Paper for your artwork? 
 * Workshop 2: Workshop on Black Mirror Writing Room
 * Workshop 3: Workshop on Merging Mixed Realities
 * Workshop 4: Workshop on Generating Speculative Media Art
@@ -68,4 +72,30 @@ Amber:
 - Katie Salen Tekinbaş and Eric Zimmerman. [Rules of Play](https://www.hup.harvard.edu/books/9780674005815)
 - Erik Lintunen. [Latent Spaces: The High-Dimensional Infosphere](https://dl.acm.org/doi/pdf/10.1145/3363384.3363395)
 - Venkatesh Rao. [On the Design of Escaped Realities](https://www.ribbonfarm.com/2015/01/16/on-the-design-of-escaped-realities/)
+
+## Designer & Artist Reference
+
+Towards Speculative Realities
+- Superstudio, ["The Continuous Monument: On the River, project (Perspective)"](https://www.moma.org/collection/works/934), 1969, 
+- NEOM, ["The Line"](https://www.neom.com/en-us/regions/theline)
+- Anthony Dunne & Fiona Raby, ["A/B Design Manifesto"](https://dunneandraby.co.uk/content/projects/476/0), 2009
+- Anthony Dunne & Fiona Raby, ["Faraday Chair"](https://dunneandraby.co.uk/content/projects/67/0), 1995
+- Takram, ["Shenu: Hydrolemic System"](https://www.takram.com/projects/shenu-hydrolemic-system), 2016
+- Elliott P. Montgomery, ["An Unresolvable Mapping of Speculative Design"](https://www.epmid.com/Mapping-Speculative-Design)
+- SpeculativeEDU, ["Dunne & Raby: Designers need to recognise their limitations and work with them"](https://speculativeedu.eu/interview-dunne-raby/)
+- Anthony Dunne & Fiona Raby, ["United Micro Kingdoms: A Design Fiction"](https://researchonline.rca.ac.uk/1369/), [https://unitedmicrokingdoms.org/](https://unitedmicrokingdoms.org/), 2013
+
+- Takram, https://www.takram.com
+- Anthony Dunne & Fiona Raby, https://dunneandraby.co.uk/
+- Sputniko!, https://sputniko.com/
+- Choy Ka Fai, https://digicult.it/news/choy-ka-fai-body-memory-speculations/
+- nonhuman nonsense, https://nonhuman-nonsense.com/
+- nonhuman nonsense, ["The Pink Chicken Project"](https://pinkchickenproject.com/)
+- Thomas Thwaites, ["Becoming a Goat"](https://www.core77.com/posts/53574/Take-a-Holiday-from-Being-Human-Thomas-Thwaites-on-Becoming-a-Goat)
+- Jiabao Li, https://jiabaoli.org
+- Neri Oxman, https://oxman.com/
+- Ian Cheng, http://iancheng.com/
+- Ian Cheng: An Emissaries Guide to Worlding (2018)
+
+
 
