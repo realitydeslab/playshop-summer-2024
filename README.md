@@ -102,4 +102,9 @@ Towards Speculative Realities
 [Homework 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). Due: 2PM, Jun 20, 2024. 
 
 
+## Concept
+Aura
+Copernicus Trauma
+
+
 
