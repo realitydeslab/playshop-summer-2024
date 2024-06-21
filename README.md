@@ -97,14 +97,23 @@ Towards Speculative Realities
 - Ian Cheng, http://iancheng.com/
 - Ian Cheng: An Emissaries Guide to Worlding (2018)
 
-## Workshop Homework 1
+## Workshop
 
-[Homework 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). Due: 2PM, Jun 20, 2024. 
+[Workshop 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). by Amber. Jun 20, 2024. 
+[Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
+[Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Rem Rungu Lin (Guest). Jun 21, 2024. 
+
+
+## Reference 
+Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
 
 
 ## Concept
 Aura
 Copernicus Trauma
+
+
 
 
 
