@@ -99,9 +99,9 @@ Towards Speculative Realities
 
 ## Workshop
 
-[Workshop 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). by Amber. Jun 20, 2024. 
-[Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
-[Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Rem Rungu Lin (Guest). Jun 21, 2024. 
+- [Workshop 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). by Amber. Jun 20, 2024. 
+- [Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
+- [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Rem Rungu Lin (Guest). Jun 21, 2024. 
 
 
 ## Reference 
