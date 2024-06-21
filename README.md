@@ -105,8 +105,8 @@ Towards Speculative Realities
 
 
 ## Reference 
-Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
+- Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+- Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
 
 
 ## Concept
