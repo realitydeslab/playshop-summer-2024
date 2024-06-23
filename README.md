@@ -103,6 +103,20 @@ Towards Speculative Realities
 - [Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
 - [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Rem Rungu Lin (Guest). Jun 21, 2024. 
 
+## Final Project 
+
+Your speculative design will be showcased as an academic pictorial with artwork. We strongly advise you to use the InDesign template to compose your Pictorial. 
+
+[Template for ACM SIGCHI Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
+
+- [The Tuning of Materials: A Designer’s Journey (DIS ’16)](https://dl.acm.org/doi/10.1145/2901790.2901909)
+- [Designing for an other Home: Expanding and Speculating on Different Forms of Domestic Life (DIS ’18)](https://dl.acm.org/doi/10.1145/3196709.3196810)
+- [Sensing Kirigami (DIS ’19)](https://dl.acm.org/doi/10.1145/3322276.3323689)
+- [Designing with Intimate Materials and Movements: Making “Menarche Bits” (DIS ’20)](https://dl.acm.org/doi/10.1145/3357236.3395592)
+- [Entangled Reflections on Designing with Leaky Breastfeeding Bodies (DIS ’21)](https://dl.acm.org/doi/10.1145/3461778.3462048)
+- [Spooky Technology: The ethereal and otherworldly as a resource for design (DIS ’22)](https://dl.acm.org/doi/10.1145/3532106.3533547)
+- [Tactful Feminist Sensing: Designing for Touching Vaginal Fluids (DIS ‘23)](https://dl.acm.org/doi/abs/10.1145/3563657.3595966)
+
 
 ## Reference 
 - Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
