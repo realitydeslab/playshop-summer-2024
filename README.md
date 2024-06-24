@@ -125,6 +125,9 @@ Amber:
 
 Your speculative design will be showcased as an academic pictorial with artwork. We strongly advise you to use the InDesign template to compose your Pictorial. 
 
+Propose your idea on the Github discussion. Please comment each other's topic. It's fun. 
+https://github.com/realitydeslab/playshop-summer-2024/discussions/categories/proposal
+
 - Stage 1: Proposal + Initial Lit Review. Due: Jun 26, 2024.
 - Stage 2: Proposal 2 + Related Works and Idea Iteration. Due: Jun 27, 2024.
 - Stage 3: Final Proposal. Due: Jun 28, 2024.
