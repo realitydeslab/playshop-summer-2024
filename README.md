@@ -13,7 +13,7 @@ Finally, your speculative design will be showcased as an academic pictorial with
 
 Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Pluralisms, Mixed Realities
 
-##  Course Objectives
+## Course Objectives
 
 * Gain knowledge about core research topics addressing ongoing and future technological conditions.
 * Learning to approach any computationally specific project in critically reflexive ways is a skill that directly correlates with the quality and sustainability of any related design or artistic project.
@@ -32,12 +32,9 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 Kraft: 
 * Lecture 0: What's Speculative Design?
 * Lecture 1. The Work of Art in the Age of Automation 
-* Lecture 2. Designing towards organological 
-	* (tech as organ rather then tech as the other) 
-* Lecture 3. New materiality. Silicon. The next Intelligence. 
-	* (an opposite approach to the above) 
-* Lecture 4. Human centric design & Beyond human Centrism. 
-	* (where we don't make tech to be like us, but instead we try and learn from it to see beyond what were able to normally see) 
+* Lecture 2. Designing towards organological (tech as organ rather then tech as the other) 
+* Lecture 3. New materiality. Silicon. The next Intelligence. (an opposite approach to the above) 
+* Lecture 4. Human centric design & Beyond human Centrism. (where we don't make tech to be like us, but instead we try and learn from it to see beyond what were able to normally see) 
 * Lecture 5. Aesthetics of AI: Latent Spaces. Aethetics of Robotics: Uncanny Valley. Aethetics of Web3: Memecoinomy 
 * Lecture 6. Systemic Biases. Avoidable Dystopias. 
 * Lecture 7. Algorithmic Generator vs Discriminator. Art & Design Ecosytem. 
@@ -50,18 +47,21 @@ Kraft:
 * Lecture 14. Cosmotechnics. Technological Pluralisms 
 * Lecture 15. Web3 Ecologies. Consensus. Incentivisation.
 
+* Workshop 1: Workshop on Speculative Matrix
+
+
 Amber:
 * Lecture 1. Towards Speculative Realities
 * Lecture 2: Towards Permissionless Realities
 * Lecture 3: Towards Intercorporeal Realities
-* Workshop 1: Workshop on How to write a Pictorial / Paper for your artwork? 
-* Workshop 2: Workshop on Black Mirror Writing Room
+* Workshop 1: Workshop on Black Mirror Writing Room
+* Workshop 2: Workshop on Generating Speculative Media Art
 * Workshop 3: Workshop on Merging Mixed Realities
-* Workshop 4: Workshop on Generating Speculative Media Art
-* Workshop 5: Workshop on AI and Afterlife
+* Workshop 4: Workshop on AI and Afterlife
+* Tutorial 1: Workshop on How to write a Pictorial / Paper for your artwork?
+
 
 ## Reading List
-
 - Walter Benjamin. [The Work of Art in the Age of Mechanical Reproduction](https://web.mit.edu/allanmc/www/benjamin.pdf)
 - Yuk Hui. [Art and Cosmotechnics](https://www.upress.umn.edu/book-division/books/art-and-cosmotechnics)
 - Lev Manovich. [AI Aesthetics](http://manovich.net/index.php/projects/ai-aesthetics).
@@ -75,8 +75,9 @@ Amber:
 
 ## Designer & Artist Reference
 
-Towards Speculative Realities
-- Superstudio, ["The Continuous Monument: On the River, project (Perspective)"](https://www.moma.org/collection/works/934), 1969, 
+### Amber's Lecture 1. Towards Speculative Realities
+
+- Superstudio, ["The Continuous Monument: On the River, project (Perspective)"](https://www.moma.org/collection/works/934), 1969
 - NEOM, ["The Line"](https://www.neom.com/en-us/regions/theline)
 - Anthony Dunne & Fiona Raby, ["A/B Design Manifesto"](https://dunneandraby.co.uk/content/projects/476/0), 2009
 - Anthony Dunne & Fiona Raby, ["Faraday Chair"](https://dunneandraby.co.uk/content/projects/67/0), 1995
@@ -84,7 +85,6 @@ Towards Speculative Realities
 - Elliott P. Montgomery, ["An Unresolvable Mapping of Speculative Design"](https://www.epmid.com/Mapping-Speculative-Design)
 - SpeculativeEDU, ["Dunne & Raby: Designers need to recognise their limitations and work with them"](https://speculativeedu.eu/interview-dunne-raby/)
 - Anthony Dunne & Fiona Raby, ["United Micro Kingdoms: A Design Fiction"](https://researchonline.rca.ac.uk/1369/), [https://unitedmicrokingdoms.org/](https://unitedmicrokingdoms.org/), 2013
-
 - Takram, https://www.takram.com
 - Anthony Dunne & Fiona Raby, https://dunneandraby.co.uk/
 - Sputniko!, https://sputniko.com/
@@ -97,15 +97,42 @@ Towards Speculative Realities
 - Ian Cheng, http://iancheng.com/
 - Ian Cheng: An Emissaries Guide to Worlding (2018)
 
+### Amber's Lecture 2. Towards Speculative Realities
+- Apple, [ART Walk](https://www.apple.com/hk/en/newsroom/2019/07/apple-offers-new-augmented-reality-art-sessions/)
+
+
 ## Workshop
 
 - [Workshop 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). by Amber. Jun 20, 2024. 
 - [Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
-- [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Rem Rungu Lin (Guest). Jun 21, 2024. 
+- [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/3). by Rem Rungu Lin (Guest). Jun 21, 2024. 
 
 ## Final Project 
 
 Your speculative design will be showcased as an academic pictorial with artwork. We strongly advise you to use the InDesign template to compose your Pictorial. 
+
+- Stage 1: Proposal Round 1. Due: Jun 26, 2024.
+- Stage 2: Proposal Round 2. Due: Jun 28, 2024.
+- Stage 3: Final Exhibition. Due: July 5, 2024. 
+
+- Potential Future Venue
+- [TEI 2025](https://tei.acm.org/2025/participate/pictorials). Due: July 25, 2024.
+
+- Fiona Bell, Joshua Coffie, and Mirela Alistar. 2024. [Bio-Digital Calendar: Attuning to Nonhuman Temporalities for Multispecies Understanding.](https://doi.org/10.1145/3623509.3633386)
+- Oliver Child, Ollie Hanton, Colin Kellett, Matt Sutton, Bruce Drinkwater, and Mike Fraser. 2024. [Tangible Explorations of Sonolithography.](https://doi.org/10.1145/3623509.3633387)
+- Çağlar Genç, Velvet Spors, Oğuz 'Oz Buruk, Mattia Thibault, Leland Masek, and Juho Hamari. 2024. [Envisioning Transhuman Communication Research: Speculative Human Augmentation Technologies and Fictional Abstracts.](http://doi.org/10.1145/3623509.3633390)
+- Lea Albaugh, Jesse T Gonzalez, and Scott E Hudson. 2024. [Tensions and Resolutions in Hybrid Basketry: Joining 3D Printing and Handweaving.](http://doi.org/10.1145/3623509.3633400)
+- Elzelinde Van Doleweerd, and Miguel Bruns Alonso. 2023. [The Creation of a Holistic Interactive Dining Experience with Shape-Changing Food Materials at Restaurant Alchemist.](https://doi.org/10.1145/3569009.3572791)
+- Mafalda Gamboa. 2023. [My Body, My Baby, and Everything Else: An Autoethnographic Illustrated Portfolio of Intra-Actions in Pregnancy and Childbirth.](https://doi.org/10.1145/3569009.3572797)
+- Dianya Mia Hua, Jeffrey Bardzell, and Shaowen Bardzell. 2023. [Embodied Embroidery: Somaesthetic Interaction Design for Women’s Masturbation.](https://doi.org/10.1145/3569009.3572803)
+- Karen Anne Cochrane, Kristina Mah, Anna Ståhl, Claudia Núñez-Pacheco, Madeline Balaam, Naseem Ahmadpour, and Lian Loke. 2022. [Body Maps: A Generative Tool for Soma-based Design.](http://doi.org/10.1145/3490149.3502262)
+- Rikke Hagensby Jensen, Enrique Encinas, and Dimitrios Raptis. 2022. [Spicing It Up: From Ubiquitous Devices to Tangible Things Through Provocation.](http://doi.org/10.1145/3490149.3502257)
+- Iddo Yehoshua Wald and Oren Zuckerman. 2021. [Magnetform: A Shape-change Display Toolkit for Material-oriented Designers.](https://dl.acm.org/doi/10.1145/3430524.3446066)
+- Sangwon Jung, Ruowei Xiao, Oğuz ‘Oz’ Buruk, and Juho Hamari. 2021. [Designing Gaming Wearables: From Participatory Design to Concept Creation.](https://dl.acm.org/doi/10.1145/3430524.3446067)
+- Sara Nabil and David Kirk. 2021. [Decoraction: a Catalogue for Interactive Home Decor of the Nearest-Future.](https://dl.acm.org/doi/10.1145/3430524.3446074)
+
+
+[Augmented Humans 2025](https://augmented-humans.org/calls-for-participation/). [Archive](https://dl.acm.org/doi/proceedings/10.1145/3652920). Due: Jan, 2025. 
 
 [Template for ACM SIGCHI Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
 
