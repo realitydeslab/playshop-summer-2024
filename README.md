@@ -116,9 +116,10 @@ Amber:
 
 Your speculative design will be showcased as an academic pictorial with artwork. We strongly advise you to use the InDesign template to compose your Pictorial. 
 
-- Stage 1: Proposal Round 1. Due: Jun 26, 2024.
-- Stage 2: Proposal Round 2. Due: Jun 28, 2024.
-- Stage 3: Final Exhibition. Due: July 5, 2024. 
+- Stage 1: Proposal + Initial Lit Review. Due: Jun 26, 2024.
+- Stage 2: Proposal 2 + Related Works and Idea Iteration. Due: Jun 27, 2024.
+- Stage 3: Final Proposal. Due: Jun 28, 2024.
+- Stage 4: Final Exhibition. Due: July 5, 2024. 
 
 Template for Pictorials:
 [Template for ACM DIS Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
