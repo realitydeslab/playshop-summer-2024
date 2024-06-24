@@ -29,7 +29,7 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 
 ## Calendar
 
-Check our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWVmOGE5YTU4ZjdlN2VhZjgzOTUwZWM2OWU1ODRjNmQ3NTQwNWMyNmE1YmI5NWEyNTM5NDU5YWFmYjczNDU2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+Check our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWVmOGE5YTU4ZjdlN2VhZjgzOTUwZWM2OWU1ODRjNmQ3NTQwNWMyNmE1YmI5NWEyNTM5NDU5YWFmYjczNDU2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t](https://calendar.google.com/calendar/embed?src=1ef8a9a58f7e7eaf83950ec69e584c6d75405c26a5bb95a2539459aafb734564%40group.calendar.google.com&ctz=Asia%2FShanghai)
 
 ## Syllabus
 
