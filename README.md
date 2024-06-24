@@ -31,6 +31,12 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 
 Check our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWVmOGE5YTU4ZjdlN2VhZjgzOTUwZWM2OWU1ODRjNmQ3NTQwNWMyNmE1YmI5NWEyNTM5NDU5YWFmYjczNDU2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
+Invite us for Consultation:
+
+Here is our calendar ID:
+1ef8a9a58f7e7eaf83950ec69e584c6d75405c26a5bb95a2539459aafb734564@group.calendar.google.com
+
+
 ## Syllabus
 
 Kraft: 
