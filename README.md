@@ -27,6 +27,10 @@ Speculative Design, Philosophy of Technology (AI, XR, Web3), Technological Plura
 
 * June 17 - July 5, 2024
 
+## Calendar
+
+Check our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MWVmOGE5YTU4ZjdlN2VhZjgzOTUwZWM2OWU1ODRjNmQ3NTQwNWMyNmE1YmI5NWEyNTM5NDU5YWFmYjczNDU2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 ## Syllabus
 
 Kraft: 
