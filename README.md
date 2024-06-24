@@ -100,12 +100,17 @@ Amber:
 ### Amber's Lecture 2. Towards Speculative Realities
 - Apple, [ART Walk](https://www.apple.com/hk/en/newsroom/2019/07/apple-offers-new-augmented-reality-art-sessions/)
 
+### Amber's Tutorial 1: Workshop on How to write a Pictorial / Paper for your artwork?
+
+- Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+- Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
 
 ## Workshop
 
 - [Workshop 1: Black Mirror Writer Room](https://github.com/realitydeslab/playshop-summer-2024/issues/1). by Amber. Jun 20, 2024. 
 - [Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
 - [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/3). by Rem Rungu Lin (Guest). Jun 21, 2024. 
+
 
 ## Final Project 
 
@@ -115,9 +120,17 @@ Your speculative design will be showcased as an academic pictorial with artwork.
 - Stage 2: Proposal Round 2. Due: Jun 28, 2024.
 - Stage 3: Final Exhibition. Due: July 5, 2024. 
 
-- Potential Future Venue
-- [TEI 2025](https://tei.acm.org/2025/participate/pictorials). Due: July 25, 2024.
+Template for Pictorials:
+[Template for ACM DIS Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
+[Template for ACM TEI Pictorial](https://tei.acm.org/2024/wp-content/uploads/2023/03/TEI2024-Pictorials-InDesign-template-Folder-20230303T133400Z-001.zip)
 
+
+
+## Potential Future Venue
+### TEI 2025: ACM Conference on Tangible, Embedded and Embodied Interaction
+[Call for Pictorials](https://tei.acm.org/2025/participate/pictorials). Due: July 25, 2024.
+
+Examples: 
 - Fiona Bell, Joshua Coffie, and Mirela Alistar. 2024. [Bio-Digital Calendar: Attuning to Nonhuman Temporalities for Multispecies Understanding.](https://doi.org/10.1145/3623509.3633386)
 - Oliver Child, Ollie Hanton, Colin Kellett, Matt Sutton, Bruce Drinkwater, and Mike Fraser. 2024. [Tangible Explorations of Sonolithography.](https://doi.org/10.1145/3623509.3633387)
 - Çağlar Genç, Velvet Spors, Oğuz 'Oz Buruk, Mattia Thibault, Leland Masek, and Juho Hamari. 2024. [Envisioning Transhuman Communication Research: Speculative Human Augmentation Technologies and Fictional Abstracts.](http://doi.org/10.1145/3623509.3633390)
@@ -131,10 +144,15 @@ Your speculative design will be showcased as an academic pictorial with artwork.
 - Sangwon Jung, Ruowei Xiao, Oğuz ‘Oz’ Buruk, and Juho Hamari. 2021. [Designing Gaming Wearables: From Participatory Design to Concept Creation.](https://dl.acm.org/doi/10.1145/3430524.3446067)
 - Sara Nabil and David Kirk. 2021. [Decoraction: a Catalogue for Interactive Home Decor of the Nearest-Future.](https://dl.acm.org/doi/10.1145/3430524.3446074)
 
+### AHs 2025: Augmented Humans
 
-[Augmented Humans 2025](https://augmented-humans.org/calls-for-participation/). [Archive](https://dl.acm.org/doi/proceedings/10.1145/3652920). Due: Jan, 2025. 
+[Call for Pictorials](https://augmented-humans.org/calls-for-participation/). Due: Jan, 2025. 
 
-[Template for ACM SIGCHI Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
+[Archive](https://dl.acm.org/doi/proceedings/10.1145/3652920). 
+
+### DIS 2025: ACM Conference on Designing Interactive Systems
+
+[Call for Pictorials](https://dis.acm.org/2024/pictorials/). Due: Jan 2025. 
 
 - [The Tuning of Materials: A Designer’s Journey (DIS ’16)](https://dl.acm.org/doi/10.1145/2901790.2901909)
 - [Designing for an other Home: Expanding and Speculating on Different Forms of Domestic Life (DIS ’18)](https://dl.acm.org/doi/10.1145/3196709.3196810)
@@ -144,17 +162,8 @@ Your speculative design will be showcased as an academic pictorial with artwork.
 - [Spooky Technology: The ethereal and otherworldly as a resource for design (DIS ’22)](https://dl.acm.org/doi/10.1145/3532106.3533547)
 - [Tactful Feminist Sensing: Designing for Touching Vaginal Fluids (DIS ‘23)](https://dl.acm.org/doi/abs/10.1145/3563657.3595966)
 
+### C&C 2025: ACM Conference on Creativity & Cognition
 
-## Reference 
-- Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-- Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
-
-
-## Concept
-Aura
-Copernicus Trauma
-
-
-
+[Call for Pictorials](https://cc.acm.org/2024/pictorials/). Due: Jan, 2025.
 
 
