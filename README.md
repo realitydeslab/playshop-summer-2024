@@ -108,6 +108,11 @@ Amber:
 
 - Richard Hamming, ["You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 - Sebastian Deterding, [How to write a good CHI paper (that might just get accepted)](https://speakerdeck.com/codingconduct/how-to-write-a-good-chi-paper-that-might-just-get-accepted?slide=15)
+- Tools for Paper
+  - [Google Scholar](https://scholar.google.com)
+  - [Semantic Scholar](https://www.semanticscholar.org/)
+  - [Overleaf](https://overleaf.com)
+  - [Zotero](https://zotero.org/)
 
 ## Workshop
 
