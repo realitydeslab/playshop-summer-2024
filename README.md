@@ -147,13 +147,20 @@ Template for Pictorials:
 
 Deliverables: 
 
-1. 15s Luma Generated Trailer with AI-Generated Voice Over 
-  1.1. Keyframe
-  1.2. Tagline: 25 words
+* Deadline 1: Tues 13:00
+
+-Tagline: 25 words
+-Video clip scenario for a 15 seconds video clip. 
+- A keyframe image (could be made in stable diffusion, runway, dalle)
+
+* Deadline 2: Tues 13:00
+
+1. 15s LumaAI Generated Trailer with AI-Generated Voice Over 
+  1.1. Start with your keyframe and end with next presenter's keyframe
 2. Short Paper (IN ACM TEI Pictorial Format)
-     1300 words within 2 papers (excl. reference). 
+     At least 1300 words within at least 2 papers (excl. reference). 
    Abstract: 100 words. 
-3. Digital Artefact: Video / Image / 3D Model (USD format)
+3. Digital Artefact: Video (1min max) / Image / 3D Model (USD format)
 
 
 
