@@ -153,7 +153,7 @@ Deliverables:
 2. Short Paper (IN ACM TEI Pictorial Format)
      1300 words within 2 papers (excl. reference). 
    Abstract: 100 words. 
-3. Digital Artefact: Video / Image / 3D Mdoel (USD format)
+3. Digital Artefact: Video / Image / 3D Model (USD format)
 
 
 
