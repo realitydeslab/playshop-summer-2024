@@ -127,7 +127,6 @@ Amber:
 - [Workshop 2: Speculative Matrix Exercise](https://github.com/realitydeslab/playshop-summer-2024/issues/2). by Kraft. Jun 19, 2024.
 - [Workshop 3: Speculative Media Art](https://github.com/realitydeslab/playshop-summer-2024/issues/3). by Rem Rungu Lin (Guest). Jun 21, 2024. 
 
-
 ## Final Project 
 
 Your speculative design will be showcased as an academic pictorial with artwork. We strongly advise you to use the InDesign template to compose your Pictorial. 
@@ -143,6 +142,18 @@ https://github.com/realitydeslab/playshop-summer-2024/discussions/categories/pro
 Template for Pictorials:
 [Template for ACM DIS Pictorial](https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip)
 [Template for ACM TEI Pictorial](https://tei.acm.org/2024/wp-content/uploads/2023/03/TEI2024-Pictorials-InDesign-template-Folder-20230303T133400Z-001.zip)
+
+### Video 
+
+Deliverables: 
+
+1. 15s Luma Generated Trailer with AI-Generated Voice Over 
+  1.1. Keyframe
+  1.2. Tagline: 25 words
+2. Short Paper (IN ACM TEI Pictorial Format)
+     1300 words within 2 papers (excl. reference). 
+   Abstract: 100 words. 
+3. Digital Artefact: Video / Image / 3D Mdoel (USD format)
 
 
 
