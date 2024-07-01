@@ -145,27 +145,6 @@ Template for Pictorials:
 
 ### Video 
 
-Deliverables: 
-
-Tomorrow 13:00
-
--Tagline 25 words\
-
-
--Video clip scenario/prompt for a 15 seconds video clip. 
-
--A keyframe image (could be made in stable diffusion, runway, dalle) (no midjourney please)
-
-Final (Wednesday 18:00)
-
-
-Short paper / Extended Abstract
-– Focus on 100 words abstract (if you can 1300 words & images ) (paper template will be posted on GitHub)
-
-– Digital Artefact (video 1min max, images, 3D models, etc)
-
-– 15 seconds clip from Luma AI based on assigned keyframes
-
 * Deadline 1: Tues 13:00
 
 - Tagline: 25 words
