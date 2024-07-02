@@ -145,11 +145,11 @@ Template for Pictorials:
 
 ### Video 
 
-* Deadline 1: Tues 13:00
+* Deadline 1: Tue 13:00
 
-- Tagline: 25 words
-- Video clip scenario/prompt for a 15 seconds video clip. 
-- A keyframe image (could be made in stable diffusion, runway, dalle)
+1. Tagline: 25 words
+2. Video clip scenario/prompt for a 15 seconds video clip. 
+3. A keyframe image (could be made in stable diffusion, runway, dalle)
 
 * Deadline 2: Wed 18:00
 
@@ -162,6 +162,7 @@ Template for Pictorials:
 
 
 ## Potential Future Venue
+
 ### TEI 2025: ACM Conference on Tangible, Embedded and Embodied Interaction
 [Call for Pictorials](https://tei.acm.org/2025/participate/pictorials). Due: July 25, 2024.
 
